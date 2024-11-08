@@ -6,7 +6,7 @@ Python es un lenguaje de programación interpretado, de alto nivel y de propósi
 
 Utilizar una guía de estilo en Python, como la popular PEP 8, es fundamental para asegurar que el código sea consistente, legible y mantenible. Una guía de estilo proporciona convenciones y recomendaciones sobre cómo escribir el código de forma estandarizada. Guias de estilo: https://peps.python.org/pep-0020/ (El Zen del Python)
 
-<img src="./img/java-python.gif" alt="JavaVSPhyton" style="width:100%;"/>
+<img src="./img/java-python.gif" alt="JavaVSPhyton" style="width:820px;"/>
 
 ## Material 
 
