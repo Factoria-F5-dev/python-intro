@@ -1,6 +1,6 @@
 # Intro a Python
 
-Python es un lenguaje de programación interpretado, de alto nivel y de propósito general, conocido por su simplicidad y legibilidad, lo que lo hace ideal tanto para principiantes como para programadores experimentados. Creado por Guido van Rossum en 1991, Python se ha convertido en uno de los lenguajes más populares y versátiles del mundo, con aplicaciones que van desde el desarrollo web y la automatización hasta la ciencia de datos y la inteligencia artificial. https://www.python.org/
+Python es un lenguaje de programación interpretado, de alto nivel y de propósito general, conocido por su simplicidad y legibilidad, lo que lo hace ideal tanto para principiantes como para programadores experimentados. Creado por Guido van Rossum en 1991, Python se ha convertido en uno de los lenguajes más populares y versátiles del mundo, con aplicaciones que van desde el desarrollo web y la automatización hasta la ciencia de datos y la inteligencia artificial. https://www.python.org/ Instalación: https://www.python.org/downloads/windows/
 
 <img src="./img/trend.png" alt="Tendencias" style="width:100%;"/>
 
