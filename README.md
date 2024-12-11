@@ -283,7 +283,8 @@ Este ejercicio demuestra el uso de varios conceptos de Python:
 - [Real Python](https://realpython.com/) - Tutoriales y artículos para todos los niveles.
 - [PyCharm](https://www.jetbrains.com/pycharm/) - Un potente IDE para desarrollo en Python.
 - [Python Tutor](http://pythontutor.com/) - Visualiza la ejecución de código Python paso a paso.
-- [Curso de introducción (4 horas)](https://learn.microsoft.com/es-es/training/paths/beginner-python/)
-- [Curso avanzado (3 días)](https://ti.to/saturdaysai/python-4-ai-program)
+- [Curso de Python de Cisco con Badget (30 horas)] (https://www.netacad.com/courses/python-essentials-1?courseLang=en-US)
+- [Curso de introducción de microsoft (4 horas)](https://learn.microsoft.com/es-es/training/paths/beginner-python/)
+- [Curso de IA y machine gratuito con certificado (3 semana)](https://ti.to/saturdaysai/python-4-ai-program)
 - [Katas](https://www.codewars.com/)
 - [Ejercicios](https://www.w3schools.com/python/default.asp)
